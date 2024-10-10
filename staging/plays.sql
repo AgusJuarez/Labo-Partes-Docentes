@@ -1,0 +1,21 @@
+INSERT INTO play (id,code,name,type_id) VALUES
+	 (1,'othello','Othello',2),
+	 (2,'hamlet','Hamlet',1),
+	 (4,'as-like','As You Like',1),
+	 (52,'romyjul','Romeo y Julieta',2),
+	 (53,'lafierecilladomada','La fierecilla domada',2),
+	 (54,'suenodeunanochedeverano','Sueño de una noche de verano',2),
+	 (55,'muchoruidoypocasnueces','Mucho ruido y pocas nueces',2),
+	 (56,'nochedereyes','Noche de reyes',2),
+	 (57,'elmercaderdevenecia','El mercader de Venecia',2),
+	 (58,'cimbelino','Cimbelino',2);
+	 (59,'medidapormedida','Medida por medida',2),
+	 (60,'latempestad','La Tempestad',2),
+	 (61,'elreylear','El rey Lear',1),
+	 (62,'macbeth','Macbeth',1),
+	 (63,'juliocesar','Julio César',1),
+	 (64,'antonioycleopatra','Antonio y Cleopatra',1),
+	 (65,'coriolano','Coriolano',2),
+	 (66,'titoandrónico','Tito Andrónico',1),
+	 (67,'trolloycresida','Trollo y Crésida',1),
+	 (68,'lasalegrescomadresdewindsor','Las alegres comadres de Windsor',2);
