@@ -1,5 +1,4 @@
-### Laboratorio de Programación y Lenguajes
-### Trabajo Práctico
+
 # Novedades Docentes Secundarios
 
 Para la instalación y configuración del entorno de desarrollo es necesario seguir el siguiente 
